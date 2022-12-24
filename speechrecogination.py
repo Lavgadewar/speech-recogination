@@ -1,9 +1,4 @@
-from __future__ import print_function
-import pyaudio
-import wave
-import datetime
-import speech_recognition as sr
-import pyttsx3
+
 
 from speachrecoginationFunctions import *
 
